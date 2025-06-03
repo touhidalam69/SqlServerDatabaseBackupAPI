@@ -95,12 +95,6 @@ Logs include:
 
 ---
 
-## 📷 Screenshot
-
-> _You can add a screenshot of Postman or browser download response here_
-
----
-
 ## 📚 Extending
 
 Want to add more features?
@@ -109,8 +103,6 @@ Want to add more features?
 - ☁️ Upload backups to cloud (Azure Blob, AWS S3)
 - 🔔 Send backup alerts via email
 - 📅 Schedule backups using Hangfire or Windows Task Scheduler
-
-Let me know if you want code snippets for these!
 
 ---
 
